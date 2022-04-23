@@ -1,6 +1,6 @@
 <h1 class="title style-scope ytd-video-primary-info-renderer">CRIME SCRIPT FOR FIVEM ROLEPLAY SERVER | ESX FRAMEWORK</h1>
 <p>Required minumum <span style="color: #339966;">$10</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
-<p><strong>Video Showcase:</strong> <a href="https://youtu.be/sFt7aLsQ1YM" target="_blank">YouTube</a></p>
+<p><strong>Video Showcase:</strong> <a href="https://youtu.be/-v1-0nHFK_Q" target="_blank">YouTube</a></p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>Cuff/Uncuff player when handsup</li>
