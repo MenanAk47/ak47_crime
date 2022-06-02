@@ -17,6 +17,7 @@
 <li>Download file as zip</li>
 <li>Rename folder to ak47_crime</li>
 <li>Install necessary database sql</li>
+<li>Match handsup animation data in config.lua with you handsup script</li>
 <li>Set your patreon email in config.lua</li>
 <li>Add this resource at the bottom of server.cfg</li>
 <li>Restart your server</li>
